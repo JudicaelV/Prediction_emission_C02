@@ -1,0 +1,26 @@
+,Service numérique,Consommation énergétique (kWh),Nombre d'utilisateurs,Type d'Energie utilisée,Pays,Émission de CO2 (kg)
+1,Streaming vidéo,16795,259795,Renouvelable,France,592
+2,Recherche sur internet,1860,487232,Renouvelable,UK,2162
+3,Réseaux sociaux,77820,918040,Renouvelable,Allemagne,3984
+4,E-commerce,55886,501186,Renouvelable,UK,164
+5,Jeux en ligne,7265,157730,Non-renouvelable,Allemagne,2668
+6,Cloud computing,83386,871910,Non-renouvelable,Allemagne,2127
+7,Email,38194,385681,Renouvelable,UK,2795
+8,Stockage de fichiers,88498,150503,Non-renouvelable,Canada,1595
+9,Applications de messagerie,45131,655811,Non-renouvelable,Allemagne,491 
+10,Streaming audio,61263,528035,Non-renouvelable,Allemagne,4614
+11,Webinaire,17023,649143,Non-renouvelable,UK,4574
+12,Ã‰ducation en ligne,42090,453366,Renouvelable,Allemagne,3661
+13,PublicitÃ© en ligne,68221,66725,Non-renouvelable,Allemagne,2378
+14,TÃ©lÃ©travail,65820,130981,Renouvelable,UK,3199
+15,Services bancaires en ligne,1769,85654,Non-renouvelable,UK,300
+16,Applications de fitness,60735,954277,Non-renouvelable,France,4975
+17,Services de rÃ©servation,63955,906778,Non-renouvelable,Canada,3204
+18,Services de livraison,65925,592723,Renouvelable,Canada,4698
+19,Services de santÃ© en ligne,68969,320030,Non-renouvelable,Allemagne,2554
+20,Applications de voyage,6311,329947,Renouvelable,Canada,3745
+21,Plateformes de crowdfunding,84104,556839,Non-renouvelable,Allemagne,904
+22,Forums en ligne,54707,903648,Renouvelable,France,2831
+23,Blogs,86305,274538,Non-renouvelable,UK,2873
+24,Podcasts,29693,332236,Renouvelable,UK,1670
+25,Services de tÃ©lÃ©phonie,72932,529178,Renouvelable,UK,2790
